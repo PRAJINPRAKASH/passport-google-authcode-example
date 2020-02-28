@@ -25,6 +25,17 @@ $ npm run dev
 create an oath code from the step here `https://developers.google.com/identity/protocols/OAuth2WebServer` 
 
 
+```
+
+curl --location --request POST 'localhost:3000/auth/google/authcode' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+	"code":"<placecode_here>"
+}'
+
+
+
+```
 
 ## Credits
 
