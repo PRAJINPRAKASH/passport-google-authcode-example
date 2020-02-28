@@ -30,7 +30,6 @@ create an oath code from the step here `https://developers.google.com/identity/p
 
   - [Shobhit Singhal](https://github.com/shobhitsinghal624)
   - [Jared Hanson](https://github.com/jaredhanson)
-  - [Ethan Langevin](https://github.com/ejlangev)
   - [Maxim Yaskevich](https://github.com/myaskevich)
   - [Thibault](https://github.com/melkir)
 
